@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-items{
+    border: 1px solid green;
+    display: flex;
+    justify-content: space-evenly;
+}
